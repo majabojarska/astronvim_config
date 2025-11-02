@@ -27,8 +27,7 @@ return {
   { import = "astrocommunity.git.gitlinker-nvim" },
 
   -- Markdown
-  { import = "astrocommunity.markdown-and-latex.markview-nvim" }, -- In-editor preview
-  { import = "astrocommunity.markdown-and-latex.markdown-preview-nvim" }, -- Live browser preview with position sync
+  { import = "astrocommunity.markdown-and-latex.markdown-preview-nvim" }, -- Live browser preview
 
   -- Themes
   { import = "astrocommunity.colorscheme.gruvbox-baby" },
