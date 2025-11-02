@@ -6,6 +6,10 @@
 return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
+  { import = "astrocommunity.pack.rust" },
+  { import = "astrocommunity.pack.nix" },
+  { import = "astrocommunity.pack.markdown" },
+  { import = "astrocommunity.pack.python" },
   -- import/override with your plugins folder
 
   { import = "astrocommunity.colorscheme.gruvbox-baby" },
