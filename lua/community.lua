@@ -15,7 +15,7 @@ return {
 
   -- Editor
   { import = "astrocommunity.bars-and-lines.vim-illuminate" },
-  { import = "astrocommunity.diagnostics.error-lens-nvim" },
+  -- { import = "astrocommunity.diagnostics.error-lens-nvim" },
   { import = "astrocommunity.recipes.ai" },
 
   -- Workflow
