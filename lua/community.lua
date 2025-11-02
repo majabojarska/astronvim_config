@@ -15,7 +15,6 @@ return {
 
   -- Editor
   { import = "astrocommunity.bars-and-lines.vim-illuminate" },
-  -- { import = "astrocommunity.diagnostics.error-lens-nvim" },
   { import = "astrocommunity.recipes.ai" },
 
   -- Workflow
@@ -27,9 +26,9 @@ return {
   -- Git
   { import = "astrocommunity.git.gitlinker-nvim" },
 
-  -- MD, try out and choose one later
-  { import = "astrocommunity.markdown-and-latex.markview-nvim" },
-  { import = "astrocommunity.markdown-and-latex.markdown-preview-nvim" },
+  -- Markdown
+  { import = "astrocommunity.markdown-and-latex.markview-nvim" }, -- In-editor preview
+  { import = "astrocommunity.markdown-and-latex.markdown-preview-nvim" }, -- Live browser preview with position sync
 
   -- Themes
   { import = "astrocommunity.colorscheme.gruvbox-baby" },
