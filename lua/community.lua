@@ -12,10 +12,12 @@ return {
   { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.rust" },
+  { import = "astrocommunity.pack.html-css" },
 
   -- Editor
   { import = "astrocommunity.bars-and-lines.vim-illuminate" },
   { import = "astrocommunity.recipes.ai" },
+  { import = "astrocommunity.workflow.precognition-nvim" },
 
   -- Workflow
   { import = "astrocommunity.workflow.bad-practices-nvim" },
