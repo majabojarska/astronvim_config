@@ -15,6 +15,8 @@ return {
   { import = "astrocommunity.pack.terraform" },
   { import = "astrocommunity.pack.html-css" },
   { import = "astrocommunity.pack.prettier" },
+  { import = "astrocommunity.pack.golangci-lint" },
+  { import = "astrocommunity.pack.go" },
 
   -- Editor
   { import = "astrocommunity.bars-and-lines.vim-illuminate" },
