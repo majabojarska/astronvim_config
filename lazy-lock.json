@@ -49,6 +49,7 @@
   "precognition.nvim": { "branch": "main", "commit": "2aae2687207029b3611a0e19a289f9e1c7efbe16" },
   "resession.nvim": { "branch": "master", "commit": "cc819b0489938d03e4f3532a583354f0287c015b" },
   "rustaceanvim": { "branch": "master", "commit": "be0d1d14b8504c1c0965b608dc7ed39f2d588c91" },
+  "schemastore.nvim": { "branch": "main", "commit": "8d37e8eb0e48712c823f959beaecf0b3a7a01e75" },
   "smart-splits.nvim": { "branch": "master", "commit": "ddb23c1a1cf1507bda487cda7f6e4690965ef9f5" },
   "snacks.nvim": { "branch": "main", "commit": "eadb0ca316ee9af078a181ff9517ce54cb048769" },
   "todo-comments.nvim": { "branch": "main", "commit": "304a8d204ee787d2544d8bc23cd38d2f929e7cc5" },

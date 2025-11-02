@@ -13,6 +13,7 @@ return {
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.html-css" },
+  { import = "astrocommunity.pack.prettier" },
 
   -- Editor
   { import = "astrocommunity.bars-and-lines.vim-illuminate" },
