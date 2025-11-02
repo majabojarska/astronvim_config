@@ -22,7 +22,7 @@ return {
   { import = "astrocommunity.bars-and-lines.vim-illuminate" },
   { import = "astrocommunity.recipes.ai" },
   { import = "astrocommunity.workflow.precognition-nvim" },
-
+  { import = "astrocommunity.motion.nvim-surround" },
   -- Workflow
   { import = "astrocommunity.workflow.bad-practices-nvim" },
 
