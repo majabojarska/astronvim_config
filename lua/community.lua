@@ -39,4 +39,8 @@ return {
 
   -- Themes
   { import = "astrocommunity.colorscheme.gruvbox-baby" },
+
+  -- Scrolling
+  { import = "astrocommunity.scrolling.mini-animate" },
+  { import = "astrocommunity.scrolling.satellite-nvim" },
 }
