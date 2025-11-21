@@ -17,6 +17,8 @@ return {
   { import = "astrocommunity.pack.prettier" },
   { import = "astrocommunity.pack.golangci-lint" },
   { import = "astrocommunity.pack.go" },
+  { import = "astrocommunity.pack.yaml" },
+  { import = "astrocommunity.pack.helm" },
 
   -- Editor
   { import = "astrocommunity.bars-and-lines.vim-illuminate" },
