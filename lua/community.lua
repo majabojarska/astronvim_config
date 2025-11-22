@@ -25,8 +25,6 @@ return {
   { import = "astrocommunity.recipes.ai" },
   -- { import = "astrocommunity.workflow.precognition-nvim" },
   { import = "astrocommunity.motion.nvim-surround" },
-  -- Workflow
-  { import = "astrocommunity.workflow.bad-practices-nvim" },
 
   -- Docker
   { import = "astrocommunity.docker.lazydocker" },
@@ -41,6 +39,6 @@ return {
   { import = "astrocommunity.colorscheme.gruvbox-baby" },
 
   -- Scrolling
-  { import = "astrocommunity.scrolling.mini-animate" },
+  -- { import = "astrocommunity.scrolling.mini-animate" },
   { import = "astrocommunity.scrolling.satellite-nvim" },
 }
