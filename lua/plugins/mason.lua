@@ -12,7 +12,6 @@ return {
         -- install language servers
         "lua-language-server",
         "openscad-language-server",
-        "openscad-lsp",
 
         -- install formatters
         "stylua",
