@@ -23,6 +23,7 @@ return {
   -- Editor
   { import = "astrocommunity.bars-and-lines.vim-illuminate" },
   { import = "astrocommunity.recipes.ai" },
+  { import = "astrocommunity.editing-support.auto-save-nvim" },
   -- { import = "astrocommunity.workflow.precognition-nvim" },
   { import = "astrocommunity.motion.nvim-surround" },
 
